@@ -18,11 +18,11 @@ public class AdivinaNumero {
 		
 		if (miNumero>numeroOrdenador)
 		{
-			System.out.println("N es menor");
+			System.out.println("El número es menor");
 			}
 		else if (miNumero<numeroOrdenador)
 		{
-			System.out.println("N es mayor");
+			System.out.println("El número es mayor");
 			
 		}
 		else 
