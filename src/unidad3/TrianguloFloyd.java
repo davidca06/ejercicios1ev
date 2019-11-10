@@ -18,6 +18,7 @@ public class TrianguloFloyd {
 			{
 				System.out.print(numero);
 				numero=numero+1;
+				System.out.print(" ");
 			}
 			System.out.println();
 			}
